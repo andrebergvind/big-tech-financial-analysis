@@ -16,10 +16,11 @@ I created a table for data importation using the following code.
 I created a new table for the 5 tech companies interesting for my analysis and removed the year of 2023 since only two companies had registered activities for this year, using the following code
 
 
-
+---
 
 After creating the new table I wanted to ensure the dataset is clean, complete, and reliable enough for a fair analysis.
----
+
+--
 
 
 The process started with a count of rows present in the new table.
