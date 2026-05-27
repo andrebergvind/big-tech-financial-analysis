@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project entails a comparison of five tech companies.
+This project entails a full analysis of five tech companies and their financial performance between 2009 and 2022.
 
 The companies present in the analysis are:
 
