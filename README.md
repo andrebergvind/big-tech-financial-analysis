@@ -13,7 +13,7 @@ The companies present in the analysis are:
 - **NVIDIA**
 - **Intel**
 
-The project aimed to provide an overview of the five companies overall financial health, with an emphasis on 2022.
+The analysis aimed to provide an overview of the five companies overall financial health, with an emphasis on 2022.
 
 
 ## Tools Used
