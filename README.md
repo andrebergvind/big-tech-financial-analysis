@@ -38,12 +38,14 @@ ___
 
 **SQL**
 
-Following initial exploration of the data, next step included transferring the dataset into pgAdmin for reforming column names, look for outliers, data validation, and removing redundant data not applicable for the analysis at hand.
+Following initial exploration of the data in Excel, next step included transferring the dataset into pgAdmin for reforming column names, look for outliers, data validation, and removing redundant data not applicable for the analysis at hand.
 
-The process also uncluded an initial comparison analysis of the five companies. 
+Full cleaning and transformation process, including reasoning behind each action can be accessed here: [SQL Cleaning Process](./sql/sql-cleaning-process.md)
 
+The SQL process also uncluded an exploratory comparison analysis of the five companies.
+The analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualization.
 
-The full process 
+Full SQL analysis process, including reasoning behind each action can be accessed here: [SQL Analysis Process](./sql/sql-analysis-process.md)
 
 
 ___
