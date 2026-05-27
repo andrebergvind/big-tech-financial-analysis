@@ -52,7 +52,25 @@ ___
 
 **Tableau**
 
-In Tableau, calculated fields were created to facilitate the understanding of data. 
+The final step of cleaning and transforming the data included transferring it into Tableau Public for creating visualisations and a dashboard.
+
+Before building the visuals, calculated fields were created to facilitate the use of, and enhance the understanding of data.
+
+**Fields created include:**
+
+- Revenue ($B)
+- Shareholder Equity ($B)
+- Revenue Growth %
+- EPS Growth %
+
+Originally, revenue and shareholder equity were presented in $M but for improved readability in charts, these were converted into $B.
+This did not affect any metrics as they were not used to perform comparison with other values at this stage of the analysis.
+Revenue and EPS Growth in % were calculated by dividing the difference in change between current year and previous year with the value of previous year, which allowed for a view of changes in the metrics over time.
+
+
+
+
+The processed was finalised with a full analysis, made with the help of the dashboard and can be found below.
 
 
 
