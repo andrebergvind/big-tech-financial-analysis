@@ -77,6 +77,8 @@ The processed was finalised with a full analysis, made with the help of the dash
 
 ![Tech Financial Analysis Dashboard](dashboard.png)
 
+[View Interactive Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Analysis
 
 **Apple**
