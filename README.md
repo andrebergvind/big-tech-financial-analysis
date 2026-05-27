@@ -3,6 +3,16 @@
 
 ## Project Overview
 
+This project entails a comparison of five tech companies.
+
+The companies present in the analysis are:
+**Apple**
+**Microsoft**
+**Google**
+**NVIDIA**
+**Intel**
+
+The project aimed to provide an overview of the five companies overall financial health, with an emphasis on 2022.
 
 
 ## Tools Used
