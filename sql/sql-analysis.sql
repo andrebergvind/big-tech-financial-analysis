@@ -1,5 +1,5 @@
 
-
+1. 
 -- Examining which company had the highest revenues each year
 
 SELECT
@@ -24,7 +24,7 @@ rank = 1
 
 
 
-
+2. 
 -- Computing average profitability metrics per company over the 14 years
 
 SELECT
@@ -38,7 +38,7 @@ GROUP BY company
 ORDER BY avg_roe DESC
 
 
-
+3. 
 -- Calculating revenue growth, EPS growth, and comparing changes over time.
 
 SELECT
@@ -58,7 +58,7 @@ FROM tech_companies_financials
 ORDER BY company, year
 
 
-
+4. 
 -- Converting gross profit on revenue to percentage share, while comparing with other profitability metrics.
 
 SELECT
@@ -78,7 +78,7 @@ ORDER BY company, year
 
 
 
-
+5. 
 -- Analyising liquidity and debt over time
 
 SELECT
@@ -92,7 +92,7 @@ ORDER BY company, year
 
 
 
-
+6. 
 
 -- Analysing current financial health and position for each company within the group
 
@@ -113,7 +113,7 @@ WHERE year = 2022
 ORDER BY roe DESC
 
 
-
+7. 
 
 -- Computing and analysing EPS growth between 2021 and 2022
 
