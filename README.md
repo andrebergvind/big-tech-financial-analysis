@@ -6,6 +6,7 @@
 This project entails a comparison of five tech companies.
 
 The companies present in the analysis are:
+
 **Apple**
 **Microsoft**
 **Google**
