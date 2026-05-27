@@ -65,9 +65,8 @@ Before building the visuals, calculated fields were created to facilitate the us
 
 Originally, revenue and shareholder equity were presented in $M but for improved readability in charts, these were converted into $B.
 This did not affect any metrics as they were not used to perform comparison with other values at this stage of the analysis.
+
 Revenue and EPS Growth in % were calculated by dividing the difference in change between current year and previous year with the value of previous year, which allowed for a view of changes in the metrics over time.
-
-
 
 
 The processed was finalised with a full analysis, made with the help of the dashboard and can be found below.
