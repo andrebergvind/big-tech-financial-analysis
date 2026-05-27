@@ -79,6 +79,23 @@ The processed was finalised with a full analysis, made with the help of the dash
 
 ## Analysis
 
+**Apple**
+
+Apple demonstrates the strongest overall financial position among the companies analysed. The company has maintained the highest average revenue throughout the years while also holding the largest market capitalization since 2018. This reflects strong investor confidence, brand dominance, and consistent consumer demand.
+
+From a profitability perspective, Apple’s ROE significantly outperforms competitors, indicating exceptional efficiency in generating shareholder returns. However, the company also presents the highest D/E ratio, suggesting that leverage and aggressive capital structure strategies contribute to these returns. While this increases financial risk slightly, Apple’s profitability and cash generation capabilities appear sufficient to support it.
+
+Their revenue growth has remained relatively stable over the analysed period, although growth rates from 2022 slowed compared to previous year. Additionally, EPS growth remained positive in 2022, indicating resilience despite broader macroeconomic uncertainty.
+
+From an investment perspective, Apple represents a relatively lower-risk, long-term stability investment with strong profitability and shareholder value creation. However, future growth potential could be more moderate the coming years compared to faster growing technology competitors.
+
+**Microsoft**
+
+Microsoft presents the most balanced financial profile in the analysis. The company combines strong revenue expansion, stable profitability, high margins, and strong market capitalisation growth without excessive leverage.
+
+Compared to long-term averages, Microsoft’s 2022 metrics remain exceptionally strong, showing that the company has maintained momentum rather than experiencing stagnation. Its net margin is among the highest, reflecting operational efficiency and strong pricing power across cloud computing, software, and enterprise services.
+The company’s moderate D/E ratio indicates a healthier balance between growth and financial risk compared to Apple. EPS growth remained positive in 2022, suggesting strong earnings resilience even during periods of economic uncertainty.
+For investors, Microsoft appears to offer one of the strongest combinations of growth potential, financial stability, profitability, and manageable risk exposure. The company’s diversified business model also reduces dependency on a single market segment.
 
 ## Conclusions
 
