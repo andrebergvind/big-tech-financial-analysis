@@ -34,6 +34,8 @@ The process also uncluded an initial comparison analysis of the five companies.
 The full process 
 
 
+___
+
 **Tableau**
 
 In Tableau, calculated fields were created to facilitate the understanding of data. 
