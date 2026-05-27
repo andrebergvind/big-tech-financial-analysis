@@ -75,7 +75,7 @@ The processed was finalised with a full analysis, made with the help of the dash
 
 ## Dashboard
 
-
+![Tech Financial Analysis Dashboard](dashboard.png)
 
 ## Analysis
 
