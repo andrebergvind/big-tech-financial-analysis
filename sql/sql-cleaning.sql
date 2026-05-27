@@ -1,5 +1,5 @@
 
-
+1. 
 -- Creating a table for dataset import
 
 CREATE TABLE company_financials (
@@ -29,7 +29,7 @@ CREATE TABLE company_financials (
 )
 
 
-  
+2.   
 -- Creating a new, seperate table including the five companies and years of interest
 
 CREATE TABLE tech_companies_financials AS
@@ -43,7 +43,7 @@ company IN ('AAPL', 'MSFT', 'GOOG', 'NVDA', 'INTC')
 AND year BETWEEN 2009 AND 2022;
 
 
-
+3. 
 -- Counting total rows
 
 SELECT 
@@ -51,7 +51,7 @@ COUNT(*) AS total_rows
 FROM tech_companies_financials
 
 
-  
+4.   
 -- Verifying distinct count of rows for each company along with the spread of years
 
 SELECT
@@ -66,7 +66,7 @@ company
 
 
 
-
+5. 
 -- Validating distinct years per company
   
 SELECT
@@ -79,7 +79,7 @@ HAVING COUNT(*) > 1
 
 
 
-
+6. 
 -- Looking for null values for each metric
 
 SELECT
@@ -109,7 +109,7 @@ SELECT
 FROM tech_companies_financials
 
 
-
+6. 
 -- Looking for inconsistencies and errors
 
 SELECT *
