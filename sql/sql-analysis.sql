@@ -1,128 +1,145 @@
 
--- Creating a table for dataset import
 
-CREATE TABLE company_financials (
-    year INTEGER,
-    company TEXT,
-    category TEXT,
-    market_cap_b_usd NUMERIC,
-    revenue NUMERIC,
-    gross_profit NUMERIC,
-    net_income NUMERIC,
-    earning_per_share NUMERIC,
-    ebitda NUMERIC,
-    shareholder_equity NUMERIC,
-    cash_flow_operating NUMERIC,
-    cash_flow_investing NUMERIC,
-    cash_flow_financing NUMERIC,
-    current_ratio NUMERIC,
-    debt_equity_ratio NUMERIC,
-    roe NUMERIC,
-    roa NUMERIC,
-    roi NUMERIC,
-    net_profit_margin NUMERIC,
-    free_cash_flow_per_share NUMERIC,
-    return_on_tangible_equity NUMERIC,
-    number_of_employees INTEGER,
-    inflation_rate_us NUMERIC
-)
-
-
-  
--- Creating a new, seperate table including the five companies and years of interest
-
-CREATE TABLE tech_companies_financials AS
+-- Examining which company had the highest revenues each year
 
 SELECT
-*
+year,
+company
 FROM
-company_financials
+    
+(SELECT
+company,
+year,
+revenue,
+net_income,
+market_cap_b_usd,
+RANK() OVER(PARTITION BY year ORDER BY revenue DESC) AS rank
+FROM
+tech_companies_financials
+ORDER BY
+year DESC, rank)
+
 WHERE
-company IN ('AAPL', 'MSFT', 'GOOG', 'NVDA', 'INTC')
-AND year BETWEEN 2009 AND 2022;
+rank = 1
 
 
 
--- Counting total rows
 
-SELECT 
-COUNT(*) AS total_rows
-FROM tech_companies_financials
-
-
-  
--- Verifying distinct count of rows for each company along with the spread of years
+-- Computing average profitability metrics per company over the 14 years
 
 SELECT
 company,
-COUNT(DISTINCT year) AS year_count,
-MIN(year) AS first_year,
-MAX(year) AS first_year
-FROM
-tech_companies_financials
-GROUP BY
-company
+ROUND(AVG(roe), 2) AS avg_roe,
+ROUND(AVG(roi), 2) AS avg_roi,
+ROUND(AVG(net_profit_margin), 2) AS avg_net_profit_margin,
+ROUND(AVG(debt_equity_ratio), 2) AS avg_debt_equity_ratio,
+ROUND(AVG(current_ratio), 2) AS avg_current_ratio
+FROM tech_companies_financials
+GROUP BY company
+ORDER BY avg_roe DESC
+
+
+
+-- Calculating revenue growth, EPS growth, and comparing changes over time.
+
+SELECT
+company,
+year,
+revenue,
+earning_per_share,
+ROUND(
+    ((revenue - LAG(revenue) OVER (PARTITION BY company ORDER BY year))
+        / NULLIF(LAG(revenue) OVER (PARTITION BY company ORDER BY year), 0)) * 100, 2
+    ) AS revenue_growth_pct,
+ROUND(
+    ((earning_per_share - LAG(earning_per_share) OVER (PARTITION BY company ORDER BY year))
+        / NULLIF(LAG(earning_per_share) OVER (PARTITION BY company ORDER BY year), 0)) * 100, 2
+    ) AS eps_growth_pct
+FROM tech_companies_financials
+ORDER BY company, year
+
+
+
+-- Converting gross profit on revenue to percentage share, while comparing with other profitability metrics.
+
+SELECT
+company,
+year,
+revenue,
+gross_profit,
+net_income,
+ROUND(
+    (gross_profit / NULLIF(revenue, 0)) * 100, 2) AS gross_margin_pct,
+net_profit_margin,
+roe
+FROM tech_companies_financials
+ORDER BY company, year
 
 
 
 
--- Validating distinct years per company
-  
+
+
+-- Analyising liquidity and debt over time
+
+SELECT
+company,
+year,
+current_ratio,
+debt_equity_ratio,
+free_cash_flow_per_share
+FROM tech_companies_financials
+ORDER BY company, year
+
+
+
+
+
+-- Analysing current financial health and position for each company within the group
+
+SELECT
+company,
+market_cap_b_usd,
+revenue,
+net_income,
+earning_per_share,
+roe,
+roi,
+net_profit_margin,
+current_ratio,
+debt_equity_ratio,
+free_cash_flow_per_share
+FROM tech_companies_financials
+WHERE year = 2022
+ORDER BY roe DESC
+
+
+
+
+-- Computing and analysing EPS growth between 2021 and 2022
+
+
+WITH earnings_growth AS (
 SELECT
     company,
     year,
-    COUNT(*) AS duplicate_years
+    earning_per_share,
+    LAG(earning_per_share) OVER (
+        PARTITION BY company 
+        ORDER BY year
+    ) AS previous_year_eps
 FROM tech_companies_financials
-GROUP BY company, year
-HAVING COUNT(*) > 1
-
-
-
-
--- Looking for null values for each metric
+)
 
 SELECT
-    COUNT(*) - COUNT(year) AS year_nulls,
-    COUNT(*) - COUNT(company) AS company_nulls,
-    COUNT(*) - COUNT(category) AS category_nulls,
-    COUNT(*) - COUNT(market_cap_b_usd) AS market_cap_nulls,
-    COUNT(*) - COUNT(revenue) AS revenue_nulls,
-    COUNT(*) - COUNT(gross_profit) AS gross_profit_nulls,
-    COUNT(*) - COUNT(net_income) AS net_income_nulls,
-    COUNT(*) - COUNT(earning_per_share) AS eps_nulls,
-    COUNT(*) - COUNT(ebitda) AS ebitda_nulls,
-    COUNT(*) - COUNT(shareholder_equity) AS shareholder_equity_nulls,
-    COUNT(*) - COUNT(cash_flow_operating) AS operating_cash_flow_nulls,
-    COUNT(*) - COUNT(cash_flow_investing) AS investing_cash_flow_nulls,
-    COUNT(*) - COUNT(cash_flow_financing) AS financing_cash_flow_nulls,
-    COUNT(*) - COUNT(current_ratio) AS current_ratio_nulls,
-    COUNT(*) - COUNT(debt_equity_ratio) AS debt_equity_nulls,
-    COUNT(*) - COUNT(roe) AS roe_nulls,
-    COUNT(*) - COUNT(roa) AS roa_nulls,
-    COUNT(*) - COUNT(roi) AS roi_nulls,
-    COUNT(*) - COUNT(net_profit_margin) AS net_profit_margin_nulls,
-    COUNT(*) - COUNT(free_cash_flow_per_share) AS fcf_per_share_nulls,
-    COUNT(*) - COUNT(return_on_tangible_equity) AS rote_nulls,
-    COUNT(*) - COUNT(number_of_employees) AS employees_nulls,
-    COUNT(*) - COUNT(inflation_rate_us) AS inflation_nulls
-FROM tech_companies_financials
-
-
-
--- Looking for inconsistencies and errors
-
-SELECT *
-FROM tech_companies_financials
-WHERE revenue < 0
-   OR market_cap_b_usd < 0
-   OR current_ratio < 0
-   OR number_of_employees <= 0
-   OR debt_equity_ratio < 0
-   OR gross_profit < 0
-   OR net_income < 0
-   OR ebitda < 0
-   OR shareholder_equity < 0
-   OR roe < 0
-   OR roa < 0
-   OR roi < 0
-   OR net_profit_margin < 0
+company,
+year,
+earning_per_share,
+previous_year_eps,
+ROUND(
+    ((earning_per_share - previous_year_eps) / NULLIF(previous_year_eps, 0)) * 100, 
+    2
+) AS eps_growth_pct
+FROM earnings_growth
+WHERE year = 2022
+ORDER BY eps_growth_pct DESC
