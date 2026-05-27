@@ -8,6 +8,7 @@
 ## Tools Used
 
 - **Excel**
+- **pgAdmin**
 - **SQL (PostgreSQL)**
 - **Tableau**
 
