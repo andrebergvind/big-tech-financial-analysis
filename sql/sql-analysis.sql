@@ -32,7 +32,6 @@ company,
 ROUND(AVG(roe), 2) AS avg_roe,
 ROUND(AVG(roi), 2) AS avg_roi,
 ROUND(AVG(net_profit_margin), 2) AS avg_net_profit_margin,
-ROUND(AVG(debt_equity_ratio), 2) AS avg_debt_equity_ratio,
 ROUND(AVG(current_ratio), 2) AS avg_current_ratio
 FROM tech_companies_financials
 GROUP BY company
