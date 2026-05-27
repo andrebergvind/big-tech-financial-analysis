@@ -26,7 +26,17 @@ ___
 
 **SQL**
 
-Using 
+Following initial exploration of the data, next step included transferring the dataset into pgAdmin for reforming column names, look for outliers, data validation, and removing redundant data not applicable for the analysis at hand.
+
+The process also uncluded an initial comparison analysis of the five companies. 
+
+
+The full process 
+
+
+**Tableau**
+
+In Tableau, calculated fields were created to facilitate the understanding of data. 
 
 
 
