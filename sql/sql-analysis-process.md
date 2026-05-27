@@ -35,19 +35,19 @@ In terms of liquidity the outliers are NVIDIA and Apple. NVIDIA has a current ra
 Apple’s current ratio below 1 may indicate tighter short-term liquidity, although this should be interpreted alongside its strong cash generation and profitability.
 
 
-The final query was used to examine and analyse current financial position.
+Next query was used to examine and analyse current financial position.
 
 The outcome showed Apple, as previously concluded, with the highest Market cap,  Revenue, Net income, ROE and ROI, however also with the highest dept to equity ratio and lowest current ratio.
 Microsoft showcased the highest earnings per share, net profit margin, and lowest debt to equity ratio.
 NVIDIA presented the highest liquidity substantially lower net income than all of its competitors except for Intel.
 Google had the second highest current ratio and lowest debt equity ratio.
-Intel was in the bottom in all profitability ratios, and has minus in free cash flow per share.
-
-
-After concluding the initial exploratory analysis made with SQL, the dataset was transferred to Tableau for further in-depth analysis.
-The full analysis can be accessed here: [Full Analysis](../README.md#analysis)
+Intel fell in the bottom in all profitability ratios, and showcased a deficit in free cash flow per share.
 
 
 Finally the analysis examined the earnings per share growth from 2021 to 2022.
 The result showcased a massive growth in earnings per share for NVIDIA of 122.54%, followed by Microsoft and Apple, (both below 20% increase).
-Worth noting is that Google and Intel have both decreased significantly with approximately 19 respectively 60%.
+Worth noting is that Google and Intel had both decreased significantly with approximately 19 respectively 60%.
+
+
+After concluding the initial exploratory analysis made with SQL, the dataset was transferred to Tableau for further in-depth analysis.
+The full analysis can be accessed here: [Full Analysis](../README.md#analysis)
