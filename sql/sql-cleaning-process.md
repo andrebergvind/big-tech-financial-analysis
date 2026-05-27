@@ -20,7 +20,7 @@ I created a new table for the 5 tech companies interesting for my analysis and r
 
 After creating the new table I wanted to ensure the dataset is clean, complete, and reliable enough for a fair analysis.
 
---
+---
 
 
 The process started with a count of rows present in the new table.
