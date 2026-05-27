@@ -87,11 +87,11 @@ From a profitability perspective, Apple’s ROE significantly outperforms compet
 
 Their revenue growth has remained relatively stable over the analysed period, although growth rates from 2022 slowed compared to previous year. Additionally, EPS growth remained positive in 2022, indicating resilience despite broader macroeconomic uncertainty.
 
-From an investment perspective, Apple represents a relatively lower-risk, long-term stability investment with strong profitability and shareholder value creation. However, future growth potential could be more moderate the coming years compared to faster growing technology competitors.
+From an investment perspective, Apple represents a relatively lower risk and long-term stability investment with strong profitability and shareholder value creation. However, future growth potential could be more moderate the coming years compared to faster growing technology competitors.
 
 **Microsoft**
 
-Microsoft presents the most balanced financial profile in the analysis. The company combines strong revenue expansion, stable profitability, high margins, and strong market capitalisation growth without excessive leverage.
+Microsoft presents the most balanced financial profile in the analysis. The company combines strong revenue expansion, stable profitability, high profitability margins, and strong market capitalisation growth without excessive leverage.
 
 Compared to long-term averages, Microsoft’s 2022 metrics remain exceptionally strong, showing that the company has maintained momentum rather than experiencing stagnation. Its net margin is among the highest, reflecting operational efficiency and strong pricing power across cloud computing, software, and enterprise services.
 The company’s moderate D/E ratio indicates a healthier balance between growth and financial risk compared to Apple. EPS growth remained positive in 2022, suggesting strong earnings resilience even during periods of economic uncertainty.
