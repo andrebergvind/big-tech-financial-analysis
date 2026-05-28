@@ -184,6 +184,7 @@ Despite not having matured to the same stage as the rest of the group, NVIDIA co
 From an investor perspective, NVIDIA represents a high-growth investment opportunity with substantial future potential linked to AI, semiconductors, and data center expansion. However, its rapid valuation growth and dependence on future technological demand may also expose investors to higher market volatility compared to more mature firms such as Apple and Microsoft.
 
 **DISCLAIMER**
+
 Overall, when considering investing in any of these companies, investors may benefit from evaluating not only profitability and historical growth performance, but also financial risk, market positioning, long-term growth sustainability, and exposure to future technological developments and possibilities.
 
 
