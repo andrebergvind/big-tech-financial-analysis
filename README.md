@@ -93,7 +93,7 @@ From an investment perspective, Apple represents a relatively lower risk and lon
 
 
 
-**Microsoft**
+***Microsoft***
 
 Microsoft presents the most balanced financial profile in the analysis. The company combines strong revenue expansion, stable profitability, high profitability margins, and strong market capitalisation without excessive leverage.
 
