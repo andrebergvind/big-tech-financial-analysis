@@ -6,7 +6,7 @@
 This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022.
 Its objective was to highlight comparative differences, and provide metric based investment perspectives for potential investors following the end of 2022. 
 
-Companies included in the analysis are:
+**Companies included in the analysis are:**
 
 - **Apple**
 - **Microsoft**
