@@ -113,27 +113,33 @@ These two metrics combined signalise strong fundamental health, and a higher lik
 
 Despite having a strong Net Margin, NVIDIA's 2022 ROE was only 36.6%, falling below Microsoft, and substantially lower than Apple. However, this does not in any way indicate a weak operational efficiency, but rather that NVIDIA has not matured to the same stage as its competitors yet, as it is still not collecting the same amount of revenue compared to its shareholder equity. 
 
-However, the dashboard also suggests higher volatility. NVIDIA’s market capitalization peaked sharply before declining in 2022, indicating sensitivity to market expectations and valuation corrections. This suggests that while NVIDIA offers the strongest growth opportunity, it also carries greater investment risk and potential price volatility.
-From an investor standpoint, NVIDIA represents a high-growth, higher-risk investment strongly tied to future technological and AI market expansion.
+Although its market capitalization declined in 2022 alongside the broader technology sector, NVIDIA still maintained significantly stronger long-term growth momentum than most competitors.
+
+From an investor standpoint, NVIDIA represents a high growth, but high risk investment strongly tied to future technological and AI market expansion.
 
 
 **Google**
 
-Google demonstrates strong financial health and one of the most conservative balance sheet structures among the companies analyzed. The company maintained stable revenue growth throughout the period while preserving strong profitability and very low debt exposure.
-Its low D/E ratio and high current ratio indicate strong liquidity and low financial risk. Compared to competitors, Google appears less dependent on leverage to generate returns, which may appeal to more risk-averse investors.
+Google demonstrates strong financial health and one of the most conservative balance sheet structures among the companies analysed. 
+Its low D/E ratio and high current ratio indicate strong liquidity and low financial risk.
+
+The company maintains stable revenue growth throughout the period while preserving strong profitability and very low debt exposure.
+Compared to competitors, Google appears less dependent on leverage to generate returns, which may appeal to more risk averse investors.
+
 Although EPS growth turned negative in 2022, long-term revenue trends and profitability metrics remain highly competitive. The decline in EPS growth may indicate temporary macroeconomic pressures rather than structural weakness.
+
 Google’s investment profile can therefore be interpreted as a balanced growth investment with strong financial stability, lower leverage risk, and continued long-term expansion potential.
-
-
-
 
 
 **Intel**
 
-Intel shows the weakest financial performance among the analyzed companies. While the company maintained moderate revenue levels historically, recent trends indicate weakening competitiveness and declining investor confidence.
+Intel shows the weakest financial performance among the analysed companies. While it maintained moderate revenue levels historically, recent trends indicate weakening competitiveness and declining investor confidence.
+
 The dashboard highlights significantly negative EPS growth in 2022, weak revenue growth, and comparatively low profitability metrics. Market capitalization growth also lagged substantially behind competitors, particularly compared to NVIDIA within the semiconductor sector.
+
 Although Intel maintains moderate leverage levels and acceptable liquidity, these strengths are overshadowed by operational underperformance and declining growth momentum.
-From an investor perspective, Intel appears to represent the highest-risk investment among the five firms analyzed. The company may still appeal to value-oriented investors expecting a long-term turnaround, but current performance indicators suggest weaker market positioning relative to competitors.
+
+From an investor perspective, Intel appears to represent the highest risk investment among the five companies analysed. Intel may still appeal to value oriented investors expecting a long-term turnaround, but current performance indicators suggest weaker market positioning relative to competitors.
 
 
 ## Conclusions
@@ -151,6 +157,9 @@ NVIDIA represents the strongest growth-oriented investment opportunity, driven b
 Google provides a financially conservative and stable growth profile supported by strong liquidity and low debt exposure, making it attractive for investors seeking lower financial risk.
 Intel significantly underperforms competitors across profitability, growth, and investor sentiment metrics, indicating structural and competitive challenges within its market segment.
 Overall, the analysis suggests that investors increasingly rewarded companies capable of generating scalable high-margin growth, particularly in cloud computing, AI, and digital infrastructure markets.
+
+
+From an investor perspective, NVIDIA represents a high-growth investment opportunity with substantial future potential linked to AI, semiconductors, and data center expansion. However, its rapid valuation growth and dependence on future technological demand may also expose investors to higher market volatility compared to more mature firms such as Apple and Microsoft.
 
 ## Recommendations
 
