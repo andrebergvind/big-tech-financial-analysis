@@ -83,11 +83,14 @@ The processed was finalised with a full analysis, made with the help of the dash
 
 ***Apple***
 
-Apple demonstrates the strongest overall financial position among the companies analysed. The company has maintained the highest average revenue throughout the years while also holding the largest market capitalization since 2018. This reflects strong investor confidence, brand dominance, and consistent consumer demand.
+Apple demonstrates the strongest overall financial position among the companies analysed. The company has maintained the highest average revenue throughout the years while also holding the largest market capitalization since 2018. These metrics reflect strong investor confidence, brand dominance, and consistent consumer demand.
 
-From a profitability perspective, Apple’s ROE significantly outperforms competitors, indicating exceptional efficiency in generating shareholder returns. However, the company also presents the highest D/E ratio, suggesting that leverage and aggressive capital structure strategies contribute to these returns. While this increases financial risk slightly, Apple’s profitability and cash generation capabilities appear sufficient to support it.
+From a profitability perspective, Apple’s ROE significantly outperforms competitors, indicating exceptional efficiency in generating shareholder returns. However, the company also presents the highest D/E ratio, suggesting that leverage and aggressive capital structure strategies contribute to these returns.
 
-Their revenue growth has remained relatively stable over the analysed period, although growth rates from 2022 slowed compared to previous year. Additionally, EPS growth remained positive in 2022, indicating resilience despite broader macroeconomic uncertainty.
+At the same time, the company's current ratio falls in at 0.9 which highlights an uncrtainty for how the company could be solvent enough to pay off all debts if product demand would rapidly decrease.
+While this certainly increases financial risk, Apple’s profitability and cash generation capabilities appear sufficient at this point to support it.
+
+As showcased on the dashboard, Apple's revenue growth has remained relatively stable over the analysed period, although growth rates from 2022 slowed compared to previous year. At the same time, EPS growth remained positive in 2022, indicating a decrease in shareholder equity.
 
 From an investment perspective, Apple represents a relatively lower risk and long-term stability investment with strong profitability and shareholder value creation. However, future growth potential could be more moderate the coming years compared to faster growing technology competitors.
 
@@ -97,28 +100,25 @@ From an investment perspective, Apple represents a relatively lower risk and lon
 
 Microsoft presents the most balanced financial profile in the analysis. The company combines strong revenue expansion, stable profitability, high profitability margins, and strong market capitalisation without excessive leverage.
 
-Compared to long-term averages, Microsoft’s 2022 metrics remain exceptionally strong, showing that the company has maintained momentum rather than experiencing stagnation. Its net margin is the highest, reflecting operational efficiency and strong pricing power across cloud computing, software, and enterprise services.
+Compared to its long-term profitability averages, Microsoft’s 2022 metrics remain exceptionally strong, showing that the company has maintained momentum rather than experiencing stagnation. Its net margin is the highest of the companies analysed, reflecting operational efficiency and strong pricing power.
 
 The company’s low D/E ratio indicates a healthier balance between growth and financial risk compared to Apple for example.
-On top of that, EPS growth remained positive in 2022, suggesting strong earnings resilience even during periods of economic uncertainty.
+On top of that, EPS growth remained positive in 2022, suggesting strong earnings resulting in increased attractiveness among investors.
 
-For investors, Microsoft appears to offer one of the strongest combinations of stable growth potential, financial stability, profitability, and manageable risk exposure. The company’s diversified business model also reduces dependency on a single market segment.
-
+Overall, Microsoft appears to offer one of the strongest combinations of stable growth potential, financial stability, profitability, and manageable risk exposure. 
 
 
 ***NVIDIA***
 
-NVIDIA is currently experiencing the most explosive growth trajectory among the analysed companies. Although historically smaller in revenue and overall profitability compared to the rest, the company shows an exceptional acceleration, showcased by its current profitability metrics over its average.
+NVIDIA is currently experiencing the most explosive growth trajectory among the analysed companies. Although historically smaller in revenue and overall profitability compared to the rest, the company shows an exceptional acceleration over the last years, showcased by its current profitability metrics over its averages.
 
-With one of the top Net Margins in 2022, NVIDIA possesses incredible pricing power and operating efficiency.
+With one of the top net margins in 2022, NVIDIA possesses strong pricing power and operating efficiency.
 The company’s 2022 EPS growth dramatically exceeded competitors, reflecting its highly profitable increase on a per-share basis.
 These two metrics combined signalise strong fundamental health, and a higher likelihood of future dividend payouts or share price appreciation.
 
-Despite having a strong Net Margin, NVIDIA's 2022 ROE was only 36.6%, falling below Microsoft, and substantially lower than Apple. However, this does not in any way indicate a weak operational efficiency, but rather that NVIDIA has not matured to the same stage as its competitors yet, as it is still not collecting the same amount of revenue compared to its shareholder equity. 
+Yet, despite having a strong net margin, NVIDIA's 2022 ROE was only 36.6%, falling below Microsoft, and substantially lower than Apple. However, this does not in any way indicate a weak operational efficiency, but rather that NVIDIA has not matured to the same stage as its competitors yet, as it is still not collecting the same amount of revenue compared to its shareholder equity. 
 
-Although its market capitalization declined in 2022 alongside the broader technology sector, NVIDIA still maintained significantly stronger long-term growth momentum than most competitors.
-
-From an investor standpoint, NVIDIA represents a high growth, but high risk investment strongly tied to future technological and AI market expansion.
+Although its market capitalization declined in 2022 alongside the broader technology sector, NVIDIA still maintained significantly stronger long-term growth momentum than most competitors. From an investor standpoint, NVIDIA represents a high growth, but high risk investment strongly dependent on future technological and AI market expansion.
 
 
 
@@ -130,7 +130,7 @@ Its low D/E ratio and high current ratio indicate strong liquidity and low finan
 The company maintains stable revenue growth throughout the period while preserving strong profitability and very low debt exposure.
 Compared to competitors, Google appears less dependent on leverage to generate returns, which may appeal to more risk averse investors.
 
-Although EPS growth turned negative in 2022, long-term revenue trends and profitability metrics remain highly competitive. The decline in EPS growth may indicate temporary macroeconomic pressures rather than structural weakness.
+Although EPS growth turned negative in 2022, long-term revenue trends and profitability metrics remain increasingly strong. The decline in EPS growth may indicate temporary macroeconomic pressures rather than internal structural weakness.
 
 Google’s investment profile can therefore be interpreted as a balanced growth investment with strong financial stability, lower leverage risk, and continued long-term expansion potential.
 
@@ -138,13 +138,13 @@ Google’s investment profile can therefore be interpreted as a balanced growth 
 
 ***Intel***
 
-Intel shows the weakest financial performance among the analysed companies. While it maintained moderate revenue levels historically, recent trends indicate weakening competitiveness and declining investor confidence.
+Intel shows the weakest financial performance among the companies analysed. While it maintained moderate revenue levels historically, recent trends indicate weakening competitiveness leading to declining investor confidence.
 
-The dashboard highlights significantly negative EPS growth in 2022, weak revenue growth, and comparatively low profitability metrics. Market capitalization growth also lagged substantially behind competitors, particularly compared to NVIDIA within the semiconductor sector.
+The dashboard highlights significantly negative EPS growth in 2022, revenue decline, and comparatively low profitability metrics, particularly to company average. Market capitalization growth also lagged substantially behind competitors, particularly compared to NVIDIA within the semiconductor sector.
 
 Although Intel maintains moderate leverage levels and acceptable liquidity, these strengths are overshadowed by operational underperformance and declining growth momentum.
 
-From an investor perspective, Intel appears to represent the highest risk investment among the five companies analysed. Intel may still appeal to value oriented investors expecting a long-term turnaround, but current performance indicators suggest weaker market positioning relative to competitors.
+From an investor perspective, Intel appears to represent the highest risk investment among the five companies analysed. Intel may still appeal to value oriented investors expecting a long-term turnaround, but current performance indicators suggest increasingly weakening market positioning relative to competitors.
 
 
 ## Conclusions
@@ -157,11 +157,11 @@ Yet, Apple remains an incredibly strong competitor and attractive alternative op
 
 Between these two companies, Microsoft demonstrates the most balanced long-term performance, and while Apple delivers strong shareholder returns it simultaneously possesses higher leverage exposure. 
 
-NVIDIA on the other hand, represents the strongest growth oriented investment opportunity, driven by rapid expansion within AI and semiconductor markets. However, the company also displays one of the weakest overall profitability along with an uncertain valuation sensitivity.
+NVIDIA on the other hand, represents the strongest growth oriented investment opportunity, driven by rapid expansion within AI and semiconductor markets. However, the company also displays some of the weakest historical profitability averages along with an uncertain valuation sensitivity.
 
 With this in mind, looking at the last two years, while NVIDIA offers the strongest growth opportunity, it also carries greater investment risk and potential price volatility.
 
-Google provides a financially conservative and stable growth profile supported by strong liquidity and low debt exposure, making it attractive for investors seeking lower financial risk. Although experiencing a drop in EPS over the last year, Google continues to expand and grow financially.
+In contrast, Google provides a financially conservative and stable growth profile supported by strong liquidity and low debt exposure, making it attractive for investors seeking lower financial risk. Although experiencing a drop in EPS over the last year, Google continues to expand and grow financially.
 
 Conversely, Intel significantly underperforms competitors across profitability, growth, and investor sentiment metrics, indicating structural and competitive challenges within its market segment. The company is at this stage facing one of its toughest challenges financially over the time period examined.
 
