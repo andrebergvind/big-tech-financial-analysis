@@ -3,7 +3,7 @@
 
 The SQL analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualization.
 
-All codes used can be accessed here: [SQL Analysis Codes](./sql-analysis-process.sql)
+All codes used can be accessed here: [SQL Analysis Codes](./sql-analysis.sql)
 
 To kick off the analysis i began with examining which company had the highest revenues each year
 Apple showcased highest revenue each year except for Microsoft in 2009.
