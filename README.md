@@ -28,7 +28,7 @@ The project was conducted in May 2026, and in order to allow for a fair outcome,
 
 [Conclusions](#conclusions)
 
-[Recommendations](#recommendation)
+[Recommendations](#recommendations)
 
 [Limitations](#limitations)
 
