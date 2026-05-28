@@ -3,10 +3,11 @@
 
 The SQL analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualization.
 
+All codes used can be accessed here: [SQL Analysis Process](./sql-analysis-process.md)
+
 To kick off the analysis i began with examining which company had the highest revenues each year
 Apple showcased highest revenue each year except for Microsoft in 2009.
 The code used:
-
 
 
 
@@ -36,8 +37,6 @@ Google showed the lowest debt to equity value of approximately 0.1.
 
 In terms of liquidity the outliers are NVIDIA and Apple. NVIDIA has a current ratio of over 6, compared to Apple that falls in below 1. NVIDIA’s high current ratio may suggest a very strong liquidity position, but could also indicate underutilized short-term assets.
 Apple’s current ratio below 1 may indicate tighter short-term liquidity, although this should be interpreted alongside its strong cash generation and profitability.
-
-
 
 
 
