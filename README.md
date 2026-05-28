@@ -149,24 +149,29 @@ From an investor perspective, Intel appears to represent the highest risk invest
 
 ## Conclusions
 
-All companies market cap down
-However, the dashboard also suggests higher volatility. NVIDIA’s market capitalization peaked sharply before declining in 2022, indicating sensitivity to market expectations and valuation corrections. This suggests that while NVIDIA offers the strongest growth opportunity, it also carries greater investment risk and potential price volatility.
-
-NVIDIA’s situation in 2022 represents a company with elite operational profitability (36.2% Net Margin) that matches or beats the best in big tech. The fact that its ROE (36.6%) is "significantly lower than Apple and Microsoft" is not an indicator of weak fundamental health. Rather, it highlights that NVIDIA achieved its explosive 2022 growth via a highly conservative, low-debt, equity-heavy capital structure—validating the "strong fundamental health" noted in your draft.
+The analysis reveals a strong divergence in strategic positioning and investment attractiveness among the five companies.
 
 
+Microsoft emerge as the strongest overall investment profile due to its combination of profitability, scale, market dominance, and financial stability.
+Yet, Apple remains an incredibly strong business and attractive option. However, at the end of 2022, it shows signs of a growth slowdown compared to Microsoft and NVIDIA.
+Between these two companies, Microsoft demonstrates the most balanced long-term performance, and while Apple delivers strong shareholder returns it simultaneously possesses higher leverage exposure. 
 
-The dashboard reveals a strong divergence in strategic positioning and investment attractiveness among the analyzed technology firms.
-Apple and Microsoft emerge as the strongest overall investment profiles due to their combination of profitability, scale, market dominance, and financial stability. Microsoft demonstrates the most balanced long-term performance, while Apple delivers exceptional shareholder returns despite higher leverage exposure.
-NVIDIA represents the strongest growth-oriented investment opportunity, driven by rapid expansion within AI and semiconductor markets. However, the company also displays the greatest volatility and valuation sensitivity.
-Google provides a financially conservative and stable growth profile supported by strong liquidity and low debt exposure, making it attractive for investors seeking lower financial risk.
-Intel significantly underperforms competitors across profitability, growth, and investor sentiment metrics, indicating structural and competitive challenges within its market segment.
-Overall, the analysis suggests that investors increasingly rewarded companies capable of generating scalable high-margin growth, particularly in cloud computing, AI, and digital infrastructure markets.
+NVIDIA however, represents the strongest growth oriented investment opportunity, driven by rapid expansion within AI and semiconductor markets. However, the company also displays one of the weakest overall profitability along with an uncertain valuation sensitivity.
+With this in mind, looking at the last two years, while NVIDIA offers the strongest growth opportunity, it also carries greater investment risk and potential price volatility.
+
+Google provides a financially conservative and stable growth profile supported by strong liquidity and low debt exposure, making it attractive for investors seeking lower financial risk. Although experiencing a drop in EPS over the last year, Google continues to expand and grow financially.
+
+Intel significantly underperforms competitors across profitability, growth, and investor sentiment metrics, indicating structural and competitive challenges within its market segment. The company is at this stage facing one of its toughest challenges financially over the time period examined.
+
+Overall, the outcome highlights various financial metrics and long-term performance trends that should be considered when evaluating potential investment opportunities within the technology sector.
 
 
-From an investor perspective, NVIDIA represents a high-growth investment opportunity with substantial future potential linked to AI, semiconductors, and data center expansion. However, its rapid valuation growth and dependence on future technological demand may also expose investors to higher market volatility compared to more mature firms such as Apple and Microsoft.
 
 ## Recommendations
+
+
+
+As an investor in this case looking forward to 2023, i would suggest finding the best balance of growth momentum, operational efficiency, and structural safety.
 
 
 Investors seeking long-term stability and lower risk may favor Apple or Microsoft due to their strong profitability, scale, and resilient financial performance.
@@ -174,6 +179,19 @@ Growth-oriented investors with higher risk tolerance may view NVIDIA as the most
 Risk-averse investors may consider Google due to its strong liquidity position, low leverage, and stable long-term fundamentals.
 Investors should approach Intel cautiously unless pursuing speculative turnaround or value-investing strategies.
 Future investment decisions should also incorporate external factors not included within the dashboard, such as macroeconomic conditions, interest rates, AI market developments, regulatory changes, and future competitive positioning.
+
+
+
+NVIDIA’s situation in 2022 represents a company with elite operational profitability (36.2% Net Margin) that matches or beats the best in big tech. The fact that its ROE (36.6%) is "significantly lower than Apple and Microsoft" is not an indicator of weak fundamental health. Rather, it highlights that NVIDIA achieved its explosive 2022 growth via a highly conservative, low-debt, equity-heavy capital structure—validating the "strong fundamental health" noted in your draft.
+
+
+
+
+
+
+From an investor perspective, NVIDIA represents a high-growth investment opportunity with substantial future potential linked to AI, semiconductors, and data center expansion. However, its rapid valuation growth and dependence on future technological demand may also expose investors to higher market volatility compared to more mature firms such as Apple and Microsoft.
+
+Overall, when considering investing in any of these companies, investors should evaluate not only profitability and historical growth performance, but also financial risk, market positioning, long-term growth sustainability, and exposure to future technological developments.
 
 ## Limitations
 
