@@ -6,8 +6,6 @@
 This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022.
 Its objective was to highlight comparative differences, and provide metric based investment perspectives for potential investors following the end of 2022. 
 
-The project was conducted in May 2026, and in order to allow for a fair outcome, the analysis does not consider any events or financial developments occurring after 2022.
-
 Companies included in the analysis are:
 
 - **Apple**
@@ -16,7 +14,10 @@ Companies included in the analysis are:
 - **NVIDIA**
 - **Intel**
 
+The project was conducted in May 2026, and in order to allow for a fair outcome, the analysis does not consider any events or financial developments occurring after 2022.
 
+**Project Structure**
+[Cleaning & Transformation](#cleaning--transformation)
 
 ## Tools Used
 
