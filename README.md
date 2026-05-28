@@ -169,13 +169,14 @@ Overall, the outcome highlights various financial metrics and long-term performa
 
 ## Recommendations
 
+When considering investing in any of these companies, investors may benefit by evaluating not only profitability and historical growth performance, but also financial risk, market positioning, long-term growth sustainability, and exposure to future technological developments and possibilities.
 
+SAFEST OPTION
+Investors seeking long-term stability and lower risk may prefer Apple or Microsoft due to their strong profitability, scale, and resilient financial performance.
 
-As an investor in this case looking forward to 2023, i would suggest finding the best balance of growth momentum, operational efficiency, and structural safety.
-
-
-Investors seeking long-term stability and lower risk may favor Apple or Microsoft due to their strong profitability, scale, and resilient financial performance.
+HIGH-RISK, HIGH-REWARD
 Growth-oriented investors with higher risk tolerance may view NVIDIA as the most attractive opportunity because of its strong EPS expansion and AI-driven growth potential.
+
 Risk-averse investors may consider Google due to its strong liquidity position, low leverage, and stable long-term fundamentals.
 Investors should approach Intel cautiously unless pursuing speculative turnaround or value-investing strategies.
 Future investment decisions should also incorporate external factors not included within the dashboard, such as macroeconomic conditions, interest rates, AI market developments, regulatory changes, and future competitive positioning.
@@ -191,14 +192,17 @@ NVIDIA’s situation in 2022 represents a company with elite operational profita
 
 From an investor perspective, NVIDIA represents a high-growth investment opportunity with substantial future potential linked to AI, semiconductors, and data center expansion. However, its rapid valuation growth and dependence on future technological demand may also expose investors to higher market volatility compared to more mature firms such as Apple and Microsoft.
 
-Overall, when considering investing in any of these companies, investors should evaluate not only profitability and historical growth performance, but also financial risk, market positioning, long-term growth sustainability, and exposure to future technological developments.
+
 
 ## Limitations
 
+- Unfortunately, the dataset did not include free cash flow nor share price and therefore, the analysis does not include valuation metrics such as P/E ratio, free cash flow, or dividend yield, which are highly relevant for investment decision making. 
 
-The analysis is limited to five technology companies and therefore does not represent the broader technology sector.
-The dashboard primarily relies on historical financial data between 2009 and 2022 and cannot fully predict future company performance.
-Market capitalization is heavily influenced by investor sentiment and broader market conditions, which may not always reflect intrinsic company value.
-External macroeconomic events such as inflation, interest rate changes, COVID-19 impacts, and geopolitical developments are not directly incorporated into the analysis.
-Some financial metrics, particularly ROE and EPS growth, can fluctuate significantly year-to-year and may be influenced by accounting adjustments, stock buybacks, or temporary market conditions.
-The dashboard does not include valuation metrics such as P/E ratio, free cash flow, or dividend yield, which are highly relevant for investment decision-making.
+- The analysis is limited to five technology companies and therefore does not represent the broader technology sector.
+
+- The dashboard primarily relies on historical financial data between 2009 and 2022 and cannot predict future company performance but merely provide a picture of recent financial health.
+
+- External macroeconomic events such as inflation, interest rate changes, COVID-19 impacts, and geopolitical developments are not directly incorporated into the analysis.
+
+- Some financial metrics, particularly ROE and EPS growth, can fluctuate significantly year-to-year and may be influenced by accounting adjustments, stock buybacks, or temporary market conditions.
+
