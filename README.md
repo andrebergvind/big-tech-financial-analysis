@@ -81,7 +81,7 @@ The processed was finalised with a full analysis, made with the help of the dash
 
 ## Analysis
 
-**Apple**
+***Apple***
 
 Apple demonstrates the strongest overall financial position among the companies analysed. The company has maintained the highest average revenue throughout the years while also holding the largest market capitalization since 2018. This reflects strong investor confidence, brand dominance, and consistent consumer demand.
 
@@ -106,7 +106,7 @@ For investors, Microsoft appears to offer one of the strongest combinations of s
 
 
 
-**NVIDIA**
+***NVIDIA***
 
 NVIDIA is currently experiencing the most explosive growth trajectory among the analysed companies. Although historically smaller in revenue and overall profitability compared to the rest, the company shows an exceptional acceleration, showcased by its current profitability metrics over its average.
 
@@ -122,7 +122,7 @@ From an investor standpoint, NVIDIA represents a high growth, but high risk inve
 
 
 
-**Google**
+***Google***
 
 Google demonstrates strong financial health and one of the most conservative balance sheet structures among the companies analysed. 
 Its low D/E ratio and high current ratio indicate strong liquidity and low financial risk.
@@ -136,7 +136,7 @@ Google’s investment profile can therefore be interpreted as a balanced growth 
 
 
 
-**Intel**
+***Intel***
 
 Intel shows the weakest financial performance among the analysed companies. While it maintained moderate revenue levels historically, recent trends indicate weakening competitiveness and declining investor confidence.
 
