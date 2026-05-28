@@ -149,45 +149,45 @@ From an investor perspective, Intel appears to represent the highest risk invest
 
 ## Conclusions
 
-The analysis reveals a strong divergence in strategic positioning and investment attractiveness among the five companies.
+The outcome of the analysis reveals a strong difference in investment attractiveness and overall financial health among the five companies.
 
+Overall, Microsoft, showcases the strongest low risk investment profile due to its combination of increasing profitability, scale, market dominance, and financial stability.
 
-Microsoft emerge as the strongest overall investment profile due to its combination of profitability, scale, market dominance, and financial stability.
-Yet, Apple remains an incredibly strong business and attractive option. However, at the end of 2022, it shows signs of a growth slowdown compared to Microsoft and NVIDIA.
+Yet, Apple remains an incredibly strong competitor and attractive alternative option. However, at the end of 2022, the company shows signs of a growth slowdown compared to Microsoft and NVIDIA.
+
 Between these two companies, Microsoft demonstrates the most balanced long-term performance, and while Apple delivers strong shareholder returns it simultaneously possesses higher leverage exposure. 
 
-NVIDIA however, represents the strongest growth oriented investment opportunity, driven by rapid expansion within AI and semiconductor markets. However, the company also displays one of the weakest overall profitability along with an uncertain valuation sensitivity.
+NVIDIA on the other hand, represents the strongest growth oriented investment opportunity, driven by rapid expansion within AI and semiconductor markets. However, the company also displays one of the weakest overall profitability along with an uncertain valuation sensitivity.
+
 With this in mind, looking at the last two years, while NVIDIA offers the strongest growth opportunity, it also carries greater investment risk and potential price volatility.
 
 Google provides a financially conservative and stable growth profile supported by strong liquidity and low debt exposure, making it attractive for investors seeking lower financial risk. Although experiencing a drop in EPS over the last year, Google continues to expand and grow financially.
 
-Intel significantly underperforms competitors across profitability, growth, and investor sentiment metrics, indicating structural and competitive challenges within its market segment. The company is at this stage facing one of its toughest challenges financially over the time period examined.
+Conversely, Intel significantly underperforms competitors across profitability, growth, and investor sentiment metrics, indicating structural and competitive challenges within its market segment. The company is at this stage facing one of its toughest challenges financially over the time period examined.
 
 Overall, the outcome highlights various financial metrics and long-term performance trends that should be considered when evaluating potential investment opportunities within the technology sector.
 
-
-
 ## Recommendations
 
+LOW RISK STABLE OPTION
 
+Investors seeking long-term stability and lower risk may prefer Microsoft due to its strong profitability, and stable financial performance. At the end of 2022, Microsoft displays the most persuasive, well rounded investment proposition.
 
-**LOW RISK STABLE OPTION**
-
-Investors seeking long-term stability and lower risk may prefer Microsoft due to its strong profitability, and resilient financial performance. At the end of 2022, Microsoft presents the most balanced, high conviction investment thesis showcased on the dashboard.
 Its Net Margin being top of the group and substantially higher than its average, indicates an increasing elite profitability and efficiency. While other tech giants decelerated rapidly in 2022, Microsoft maintained a robust 17.96% Revenue Growth and a solid 19.88% EPS Growth. Additionally, the company achieved a very high 43.7% ROE while maintaining a highly conservative capital structure D/E of just 0.3 along with a healthy Current Ratio of 1.8. 
 
-**HIGH RISK GROWTH OPTION**
+HIGH RISK GROWTH OPTION
 
 Growth-oriented investors with higher risk tolerance may view NVIDIA as the most attractive opportunity because of its strong EPS expansion and AI-driven growth potential.
-NVIDIA’s situation in 2022 represents a company with strong operational profitability presenting a 36.2% Net Margin that matches or beats the best in big tech. The fact that its ROE 36.6% is lower than Apple and Microsoft is not an indicator of weak fundamental health. Rather, it highlights that NVIDIA achieved its explosive 2022 growth via a highly conservative, low debt, equity heavy capital structure. 
-Despite not having matured to the same stage as the rest of the group, NVIDIA completely dominates the dashboard in growth metrics over the past year, including an exceptional 122.54% EPS Growth and Revenue Growth of 61.40%.
-From an investor perspective, NVIDIA represents a high-growth investment opportunity with substantial future potential linked to AI, semiconductors, and data center expansion. However, its rapid valuation growth and dependence on future technological demand may also expose investors to higher market volatility compared to more mature firms such as Apple and Microsoft.
 
-**DISCLAIMER**
+NVIDIA’s situation in 2022 represents a company with strong operational profitability presenting a 36.2% Net Margin that matches or beats the best in big tech. The fact that its ROE 36.6% is lower than Apple and Microsoft is not an indicator of weak fundamental health. Rather, it highlights that NVIDIA achieved its explosive 2022 growth via a highly conservative, low debt, equity heavy capital structure. 
+
+Despite not having matured to the same stage as the rest of the group, NVIDIA completely dominates the dashboard in growth metrics over the past year, including an exceptional 122.54% EPS Growth and Revenue Growth of 61.40%.
+
+From an investor perspective, NVIDIA shows a high-growth investment opportunity with substantial future potential linked to high tech expansion. However, its rapid valuation growth and dependence on future technological demand might also alert investors to higher market volatility compared to more mature companies such as Apple and Microsoft.
+
+DISCLAIMER
 
 Overall, when considering investing in any of these companies, investors may benefit from evaluating not only profitability and historical growth performance, but also financial risk, market positioning, long-term growth sustainability, and exposure to future technological developments and possibilities.
-
-
 
 ## Limitations
 
@@ -197,7 +197,7 @@ Overall, when considering investing in any of these companies, investors may ben
 
 - The dashboard primarily relies on historical financial data between 2009 and 2022 and cannot predict future company performance but merely provide a picture of recent financial health.
 
-- External macroeconomic events such as inflation, interest rate changes, COVID-19 impacts, and geopolitical developments are not directly incorporated into the analysis.
+- External macroeconomic events such as inflation, interest rate changes, and geopolitical developments are not directly assessed in this analysis.
 
-- Some financial metrics, particularly ROE and EPS growth, can fluctuate significantly year-to-year and may be influenced by accounting adjustments, stock buybacks, or temporary market conditions.
+- Some financial metrics, particularly ROE and EPS growth, can fluctuate significantly year to year and may have been influenced by accounting adjustments, stock buybacks, or temporary market conditions rather than poor investment decisions.
 
