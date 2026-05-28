@@ -3,6 +3,9 @@
 
 The SQL cleaning & Transformation primarily focused on validating data quality, identifying inconsistencies, and excluding data not applicable to this analysis.
 
+The codes used can be accessed here:
+[SQL Cleaning Codes](./sql-cleaning.sql)
+
 
 
 
@@ -32,13 +35,13 @@ The outcome was a count of 70
 
 
 
-Thereafter I confirmed that all companies had data ranging over the same time period: 
+Thereafter I wanted to confirm that all companies had data ranging over the same time period: 
 The outcome resulted in 14 distinct years ranging from 2009 to 2022.
 5 companies multiplied by 14 rows = 70. 
 
 
 
-An additional check was performed to confirm that there were no duplicated years for any of the companies.
+An additional check was performed to ensure that there were no duplicated years for any of the companies.
 The query returned no result.
 
 
