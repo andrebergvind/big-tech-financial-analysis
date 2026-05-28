@@ -91,6 +91,8 @@ Their revenue growth has remained relatively stable over the analysed period, al
 
 From an investment perspective, Apple represents a relatively lower risk and long-term stability investment with strong profitability and shareholder value creation. However, future growth potential could be more moderate the coming years compared to faster growing technology competitors.
 
+
+
 **Microsoft**
 
 Microsoft presents the most balanced financial profile in the analysis. The company combines strong revenue expansion, stable profitability, high profitability margins, and strong market capitalisation without excessive leverage.
@@ -101,6 +103,7 @@ The company’s low D/E ratio indicates a healthier balance between growth and f
 On top of that, EPS growth remained positive in 2022, suggesting strong earnings resilience even during periods of economic uncertainty.
 
 For investors, Microsoft appears to offer one of the strongest combinations of stable growth potential, financial stability, profitability, and manageable risk exposure. The company’s diversified business model also reduces dependency on a single market segment.
+
 
 
 **NVIDIA**
@@ -118,6 +121,7 @@ Although its market capitalization declined in 2022 alongside the broader techno
 From an investor standpoint, NVIDIA represents a high growth, but high risk investment strongly tied to future technological and AI market expansion.
 
 
+
 **Google**
 
 Google demonstrates strong financial health and one of the most conservative balance sheet structures among the companies analysed. 
@@ -129,6 +133,7 @@ Compared to competitors, Google appears less dependent on leverage to generate r
 Although EPS growth turned negative in 2022, long-term revenue trends and profitability metrics remain highly competitive. The decline in EPS growth may indicate temporary macroeconomic pressures rather than structural weakness.
 
 Google’s investment profile can therefore be interpreted as a balanced growth investment with strong financial stability, lower leverage risk, and continued long-term expansion potential.
+
 
 
 **Intel**
