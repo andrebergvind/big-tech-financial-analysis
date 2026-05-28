@@ -16,7 +16,7 @@ Its objective was to highlight comparative differences, and provide metric based
 
 The project was conducted in May 2026, and in order to allow for a fair outcome, the analysis does not consider any events or financial developments occurring after 2022.
 
-**Project Structure**
+## Project Structure
 
 [Tools Used](#tools-used)
 
