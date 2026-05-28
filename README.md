@@ -191,13 +191,13 @@ Overall, the outcome highlights various financial metrics and long-term performa
 
 Investors seeking long-term stability and lower risk may prefer Microsoft due to its strong profitability, and stable financial performance. At the end of 2022, Microsoft displays the most persuasive, well rounded investment proposition.
 
-Its Net Margin being top of the group and substantially higher than its average, indicates an increasing elite profitability and efficiency. While other tech giants decelerated rapidly in 2022, Microsoft maintained a robust 17.96% Revenue Growth and a solid 19.88% EPS Growth. Additionally, the company achieved a very high 43.7% ROE while maintaining a highly conservative capital structure D/E of just 0.3 along with a healthy Current Ratio of 1.8. 
+Its net margin being top of the group and substantially higher than its average, indicates an increasing elite profitability and efficiency. While other tech giants decelerated rapidly in 2022, Microsoft maintained a robust 17.96% Revenue Growth and a solid 19.88% EPS Growth. Additionally, the company achieved a very high 43.7% ROE while maintaining a highly conservative capital structure D/E of just 0.3 along with a healthy Current Ratio of 1.8. 
 
 **HIGH RISK GROWTH OPTION**
 
 Growth-oriented investors with higher risk tolerance may view NVIDIA as the most attractive opportunity because of its strong EPS expansion and AI-driven growth potential.
 
-NVIDIA’s situation in 2022 represents a company with strong operational profitability presenting a 36.2% Net Margin that matches or beats the best in big tech. The fact that its ROE 36.6% is lower than Apple and Microsoft is not an indicator of weak fundamental health. Rather, it highlights that NVIDIA achieved its explosive 2022 growth via a highly conservative, low debt, equity heavy capital structure. 
+NVIDIA’s situation in 2022 represents a company with strong operational profitability presenting a 36.2% net margin that matches or beats the best in big tech. The fact that its ROE 36.6% is lower than Apple and Microsoft is not an indicator of weak fundamental health. Rather, it highlights that NVIDIA achieved its explosive 2022 growth via a highly conservative, low debt, equity heavy capital structure. 
 
 Despite not having matured to the same stage as the rest of the group, NVIDIA completely dominates the dashboard in growth metrics over the past year, including an exceptional 122.54% EPS Growth and Revenue Growth of 61.40%.
 
