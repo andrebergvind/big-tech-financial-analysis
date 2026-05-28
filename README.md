@@ -22,6 +22,16 @@ The project was conducted in May 2026, and in order to allow for a fair outcome,
 
 [Cleaning & Transformation](#cleaning--transformation)
 
+[Dashboard](#dashboard)
+
+[Analysis](#analysis)
+
+[Conclusions](#conclusions)
+
+[Recommendations](#recommendation)
+
+[Limitations](#limitations)
+
 ## Tools Used
 
 - **Excel**
