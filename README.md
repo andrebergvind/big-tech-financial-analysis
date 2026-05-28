@@ -18,6 +18,7 @@ The project was conducted in May 2026, and in order to allow for a fair outcome,
 
 **Project Structure**
 [Tools Used](#tools--used)
+
 [Cleaning & Transformation](#cleaning--transformation)
 
 ## Tools Used
