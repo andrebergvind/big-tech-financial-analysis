@@ -3,9 +3,12 @@
 
 ## Project Overview
 
-This project entails a full analysis of five tech companies and their financial performance between 2009 and 2022.
+This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022.
+Its objective was to highlight comparative differences, and provide metric based investment perspectives for potential investors following the end of 2022. 
 
-The companies present in the analysis are:
+The project was conducted in May 2026, and in order to allow for a fair outcome, the analysis does not consider any events or financial developments occurring after 2022.
+
+Companies included in the analysis are:
 
 - **Apple**
 - **Microsoft**
@@ -13,7 +16,6 @@ The companies present in the analysis are:
 - **NVIDIA**
 - **Intel**
 
-The analysis aimed to provide an overview of the five companies overall financial health, with an emphasis on 2022.
 
 
 ## Tools Used
