@@ -169,28 +169,22 @@ Overall, the outcome highlights various financial metrics and long-term performa
 
 ## Recommendations
 
-When considering investing in any of these companies, investors may benefit by evaluating not only profitability and historical growth performance, but also financial risk, market positioning, long-term growth sustainability, and exposure to future technological developments and possibilities.
 
-SAFEST OPTION
-Investors seeking long-term stability and lower risk may prefer Apple or Microsoft due to their strong profitability, scale, and resilient financial performance.
 
-HIGH-RISK, HIGH-REWARD
+**LOW RISK STABLE OPTION**
+
+Investors seeking long-term stability and lower risk may prefer Microsoft due to its strong profitability, and resilient financial performance. At the end of 2022, Microsoft presents the most balanced, high conviction investment thesis showcased on the dashboard.
+Its Net Margin being top of the group and substantially higher than its average, indicates an increasing elite profitability and efficiency. While other tech giants decelerated rapidly in 2022, Microsoft maintained a robust 17.96% Revenue Growth and a solid 19.88% EPS Growth. Additionally, the company achieved a very high 43.7% ROE while maintaining a highly conservative capital structure D/E of just 0.3 along with a healthy Current Ratio of 1.8. 
+
+**HIGH RISK GROWTH OPTION**
+
 Growth-oriented investors with higher risk tolerance may view NVIDIA as the most attractive opportunity because of its strong EPS expansion and AI-driven growth potential.
-
-Risk-averse investors may consider Google due to its strong liquidity position, low leverage, and stable long-term fundamentals.
-Investors should approach Intel cautiously unless pursuing speculative turnaround or value-investing strategies.
-Future investment decisions should also incorporate external factors not included within the dashboard, such as macroeconomic conditions, interest rates, AI market developments, regulatory changes, and future competitive positioning.
-
-
-
-NVIDIA’s situation in 2022 represents a company with elite operational profitability (36.2% Net Margin) that matches or beats the best in big tech. The fact that its ROE (36.6%) is "significantly lower than Apple and Microsoft" is not an indicator of weak fundamental health. Rather, it highlights that NVIDIA achieved its explosive 2022 growth via a highly conservative, low-debt, equity-heavy capital structure—validating the "strong fundamental health" noted in your draft.
-
-
-
-
-
-
+NVIDIA’s situation in 2022 represents a company with strong operational profitability presenting a 36.2% Net Margin that matches or beats the best in big tech. The fact that its ROE 36.6% is lower than Apple and Microsoft is not an indicator of weak fundamental health. Rather, it highlights that NVIDIA achieved its explosive 2022 growth via a highly conservative, low debt, equity heavy capital structure. 
+Despite not having matured to the same stage as the rest of the group, NVIDIA completely dominates the dashboard in growth metrics over the past year, including an exceptional 122.54% EPS Growth and Revenue Growth of 61.40%.
 From an investor perspective, NVIDIA represents a high-growth investment opportunity with substantial future potential linked to AI, semiconductors, and data center expansion. However, its rapid valuation growth and dependence on future technological demand may also expose investors to higher market volatility compared to more mature firms such as Apple and Microsoft.
+
+**DISCLAIMER**
+Overall, when considering investing in any of these companies, investors may benefit from evaluating not only profitability and historical growth performance, but also financial risk, market positioning, long-term growth sustainability, and exposure to future technological developments and possibilities.
 
 
 
