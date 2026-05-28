@@ -58,6 +58,8 @@ ___
 
 Following initial exploration of the data in Excel, next step included transferring the dataset into pgAdmin for reforming column names, look for outliers, data validation, and removing redundant data not applicable for the analysis at hand.
 
+The cleaned and transformed dataset can be accessed here: [Clean Dataset](./tech_companies_financials_clean.csv)
+
 Full cleaning and transformation process, including reasoning behind each action can be accessed here: [SQL Cleaning Process](./sql/sql-cleaning-process.md)
 
 The SQL process also uncluded an exploratory comparison analysis of the five companies.
