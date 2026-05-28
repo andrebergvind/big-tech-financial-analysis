@@ -17,6 +17,7 @@ Companies included in the analysis are:
 The project was conducted in May 2026, and in order to allow for a fair outcome, the analysis does not consider any events or financial developments occurring after 2022.
 
 **Project Structure**
+
 [Tools Used](#tools--used)
 
 [Cleaning & Transformation](#cleaning--transformation)
