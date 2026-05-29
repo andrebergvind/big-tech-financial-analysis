@@ -203,11 +203,11 @@ Overall, the analysis highlights various financial conditions and histroical per
 
 **LOW RISK STABLE OPTION**
 
-For investors seeking long-term stability and lower risk, Microsoft may be an excellent choice, due to its strong profitability, and stable financial performance. At the end of 2022, Microsoft displays the most persuasive, well rounded investment proposition.
+For investors seeking long-term stability and lower risk, Microsoft may be an excellent choice due to its strong profitability, and stable financial performance. Of the companies assessed in this analysis, Microsoft displays the most persuasive, well rounded investment proposition.
 
-Its net margin being top of the group and substantially higher than its average, indicates an increasing elite profitability and efficiency. While other tech giants decelerated rapidly in 2022, Microsoft maintained a robust 17.96% Revenue Growth and a solid 19.88% EPS Growth. 
+At the end of 2022, the company presents a very high 43.7% ROE while maintaining a highly conservative capital structure D/E of just 0.3 along with a healthy Current Ratio of 1.8, suggesting the company is not only generating strong returns for its shareholders, but is doing so without relying heavily on debt financing.
 
-Additionally, the company achieved a very high 43.7% ROE while maintaining a highly conservative capital structure D/E of just 0.3 along with a healthy Current Ratio of 1.8. 
+Additionally, Its net margin being top of the group and substantially higher than its average, indicates an increasing elite profitability and efficiency. While other tech giants decelerated rapidly in 2022, Microsoft maintained a robust 17.96% Revenue Growth and a solid 19.88% EPS Growth. This indicates resilience and could provide a promising oppportunity for investors seeking a combination of stability, profitability, and continued long-term growth.
 
 
 **HIGH RISK GROWTH OPTION**
@@ -222,7 +222,7 @@ From an investor perspective, NVIDIA shows a high-growth investment opportunity 
 
 **DISCLAIMER**
 
-Overall, when considering investing in any of these companies, investors may benefit from evaluating not only profitability and historical growth performance, but also future financial risks, long-term growth sustainability, and exposure to future technological developments and possibilities.
+Overall, when considering investing in any of these companies, investors may benefit from evaluating not only profitability and historical growth performance, but also current company valuation, future financial risks, long-term growth sustainability, and exposure to future technological developments and possibilities.
 
 ## Limitations
 
