@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022, with the aim of providing insights for future investments.
+This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022, with the aim of providing insights for prospective investors.
 
 Inspired by a personal interest in financial markets and data analytics it served solely as an educational and analytical exercise and not as a definitive guide for financial advice.
 
