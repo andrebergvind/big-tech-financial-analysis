@@ -55,12 +55,12 @@ The project was conducted in May 2026, and in order to allow for a fair outcome,
 
 **Excel**
 
-After downloading the dataset from [Kaggle](https://www.kaggle.com/datasets/rish59/financial-statements-of-major-companies2009-2023?select=Financial+Statements.csv), the process continued with an initial exploration of its values and data types in Excel.
+After downloading the dataset from [Kaggle](https://www.kaggle.com/datasets/rish59/financial-statements-of-major-companies2009-2023?select=Financial+Statements.csv), the process began with an initial exploration of its values and data types using Excel.
 The reson for this step was to provide a deeper understanding of possible inconsistencies and errors present within the dataset.
 
 The result aknowledged messy column names which were altered using SQL. It also presented a difference in rows between the five companies used for the analysis. Microsoft and NVIDIA were the only two companies with data collected for 2023. Apple, Intel, and Google presented data ranging from 2009 and 2022. This finding resulted in the decision of removing data for 2023 in order to provide a fair analysis.
 
-Furthermore, the values in Apple's D/E ratio showcased 0 for the years between 2009 to 2012. These values would not be used for the analysis and were therefore not removed.
+Furthermore, the values in Apple's D/E ratio showcased 0 for the years between 2009 and 2012. These values would not be used for the analysis and were therefore not removed.
 
 ___
 
