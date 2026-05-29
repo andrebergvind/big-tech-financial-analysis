@@ -113,9 +113,9 @@ The processed was finalised with a complete analysis, made with the help of the 
 
 ***Apple***
 
-Apple demonstrates the strongest overall financial position among the companies analysed. The company has maintained the highest average revenue throughout the years while also holding the largest market capitalization since 2018. These metrics reflect strong investor confidence, brand dominance, and consistent consumer demand.
+Apple demonstrates the strongest overall financial position among the companies analysed. The company has throughout the period assesed, maintained the highest average revenue while also holding the largest market capitalization since 2018. These metrics reflect strong investor confidence, brand dominance, and consistent consumer demand.
 
-From a profitability perspective, Apple’s ROE significantly outperforms competitors, indicating exceptional efficiency in generating shareholder returns. However, the company also presents the highest D/E ratio, suggesting that leverage and aggressive capital structure strategies contribute to these returns.
+From a prospective investor perspective, Apple’s ROE significantly outperforms competitors, indicating exceptional efficiency in generating shareholder returns. However, the company also presents the highest D/E ratio, suggesting that leverage and aggressive capital structure strategies are major factors for these returns.
 
 At the same time, the company's current ratio falls in at 0.9 which highlights an uncrtainty for how the company could be solvent enough to pay off all debts if product demand would rapidly decrease.
 While this certainly increases financial risk, Apple’s profitability and cash generation capabilities appear sufficient at this point to support it.
