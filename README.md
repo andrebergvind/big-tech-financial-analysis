@@ -3,8 +3,18 @@
 
 ## Project Overview
 
-This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022.
-Its objective was to highlight comparative differences, and provide metric based investment perspectives for potential investors following the end of 2022. 
+This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022, with the aim of providing insights for future investments.
+
+Inspired by a personal interest in financial markets and data analytics it served solely as an educational and analytical exercise and not as a definitive guide for financial advice.
+
+The primary approach of the project was to explore historical financial data and showcase how it can be used to examine business growth and identify trends in order to support investment decision making. 
+
+Although the dataset assessed certainly lacks some metrics, particularly interesting for an investor (discussed in the limitations section), i believe the analysis still offers some interesting insights that may be valuable when evaluating the financial performance and long-term development of a company.
+
+Even though the main objective of the analysis was to highlight comparative differences and provide metric based perspectives for potential investors following the end of 2022, i want to clarify that the findings should be viewed as analytical observations rather than an attempt to determine future stock market outcomes
+
+The project was conducted in May 2026, and in order to allow for a fair outcome, the analysis does not consider any events or financial developments occurring after 2022.
+
 
 **Companies included in the analysis are:**
 
@@ -14,7 +24,7 @@ Its objective was to highlight comparative differences, and provide metric based
 - **NVIDIA**
 - **Intel**
 
-The project was conducted in May 2026, and in order to allow for a fair outcome, the analysis does not consider any events or financial developments occurring after 2022.
+
 
 ## Project Structure
 
