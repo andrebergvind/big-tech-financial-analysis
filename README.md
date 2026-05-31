@@ -111,7 +111,7 @@ The processed was finalised with a complete analysis, made with the help of the 
 
 ## Analysis
 
-***Apple***
+**Apple**
 
 Apple demonstrates the strongest overall financial position among the companies analysed. The company has throughout the period assesed, maintained the highest average revenue while also holding the largest market capitalization since 2018. These metrics reflect strong investor confidence, brand dominance, and consistent consumer demand.
 
@@ -126,7 +126,7 @@ Overall, Apple represents a relatively lower risk and long-term stability invest
 
 
 
-***Microsoft***
+**Microsoft**
 
 Microsoft presents the most balanced financial profile in the analysis. The company combines strong revenue expansion, stable profitability, high profitability margins, and strong market capitalisation without excessive leverage. 
 
@@ -138,7 +138,7 @@ On top of that, EPS growth continued increasing in 2022, suggesting strong earni
 Overall, Microsoft appears to offer one of the strongest combinations of stable growth potential, financial stability, profitability, and manageable risk exposure.
 
 
-***NVIDIA***
+**NVIDIA**
 
 NVIDIA is currently experiencing the most explosive growth trajectory among the companies analysed. Although historically smaller in revenue and overall profitability compared to the rest, the company shows an exceptional acceleration over the last years, showcased by its current profitability metrics over its averages.
 
@@ -152,7 +152,7 @@ Although its market capitalization declined in 2022 alongside the broader techno
 
 
 
-***Google***
+**Google**
 
 Google demonstrates strong financial health and one of the most conservative financial profiles among the companies analysed. 
 Its low D/E ratio and high current ratio indicate strong liquidity and low financial risk, suggesting it may be a safer option for investors seeking financial stability. 
@@ -168,7 +168,7 @@ Overall, Google’s investment profile can therefore be interpreted as a balance
 
 Yet, if it would be the most suitable option to invest in at this moment, of the companies analysed, remains uncertain.
 
-***Intel***
+**Intel**
 
 Intel shows the weakest financial performance among the companies analysed. While it maintained moderate revenue levels historically, recent trends indicate weakening competitiveness leading to declining investor confidence.
 
@@ -201,7 +201,7 @@ Overall, the analysis highlights various financial conditions and histroical per
 
 ## Recommendations
 
-**LOW RISK STABLE OPTION**
+**Low Risk Stable Option**
 
 For investors seeking long-term stability and lower risk, Microsoft may be an excellent choice due to its strong profitability, and stable financial performance. Of the companies assessed in this analysis, Microsoft displays the most persuasive, well rounded investment proposition.
 
@@ -210,7 +210,7 @@ At the end of 2022, the company presents a very high 43.7% ROE while maintaining
 Additionally, Its net margin being top of the group and substantially higher than its average, indicates an increasing elite profitability and efficiency. While other tech giants decelerated rapidly in 2022, Microsoft maintained a robust 17.96% Revenue Growth and a solid 19.88% EPS Growth. This indicates resilience and could provide a promising oppportunity for investors seeking a combination of stability, profitability, and continued long-term growth.
 
 
-**HIGH RISK GROWTH OPTION**
+**High Risk Growth Option**
 
 For growth oriented investors with higher risk tolerance, NVIDIA could certainly pose as the most attractive opportunity because of its strong EPS expansion and AI-driven growth potential.
 
@@ -220,7 +220,7 @@ Despite not having matured to the same stage as the rest of the group, NVIDIA co
 
 From an investor perspective, NVIDIA shows a high-growth investment opportunity with substantial future potential linked to high tech expansion. However, its rapid valuation growth and dependence on future technological demand might also alert new investors to higher market volatility compared to more mature companies such as Apple and Microsoft.
 
-**DISCLAIMER**
+**Disclaimer**
 
 Overall, when considering investing in any of these companies, investors may benefit from evaluating not only profitability and historical growth performance, but also current company valuation, future financial risks, long-term growth sustainability, and exposure to future technological developments and possibilities.
 
