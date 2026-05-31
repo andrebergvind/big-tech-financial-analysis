@@ -36,6 +36,8 @@ The project was conducted in May 2026, and in order to allow for a fair outcome,
 
 [Analysis](#analysis)
 
+[Key Insights](#key-insights)
+
 [Conclusion](#conclusion)
 
 [Recommendations](#recommendations)
@@ -177,6 +179,30 @@ The dashboard highlights significantly negative EPS growth in 2022, revenue decl
 Although Intel maintains moderate leverage levels and acceptable liquidity, these strengths are overshadowed by operational underperformance and declining growth momentum.
 
 From an investor perspective, Intel appears to represent the highest risk investment among the five companies analysed. Intel may still appeal to value oriented investors expecting a long-term turnaround, but current performance indicators suggest increasingly weakening market positioning relative to competitors.
+
+
+
+## Key Insights
+
+- **Microsoft** demonstrates the strongest overall investment profile
+  The company combines strong profitability, stable revenue growth, financial stability, and relatively low leverage.
+  In 2022, Microsoft records the highest net margin and continuous growth of earnings per share.
+
+- **Apple** remains the largest and most profitable company.
+  With a market cap and increasing revenues way above its competitors, the company continues to dominate its position as market leader.
+  In 2022, Apple records an outstanding ROE of 197, yet also the highest D/E (2.4), and lowest current ratio of 0.9.
+
+- **NVIDIA** shows the highest growth potential.
+  The company certainly signalise a strong possibility for high investor returns, however, with an investment that carries greater risk and valuation sensitivity.
+  In 2022, driven by rapid expansion, the company outperforms its average profitability ratios in all categories.
+
+- **Google** maintained a financially conservative and stable profile.
+  Supported by strong liquidity, low debt exposure, and consistent long-term growth, Google could be top choice for risk averse investors.
+  In 2022 however, the company records a decline in EPS and a sigificantly lower revenue growth than previous year.
+
+- **Intel** significantly underperformed competitors.
+  With declining revenue, negative EPS growth, and overall weakening profitability, the company could be one of the riskiest options.
+  In 2022, Intel records the lowest ROE, net marging, and earnings per share.
 
 
 ## Conclusion
