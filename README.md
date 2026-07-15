@@ -1,6 +1,5 @@
 # Big Tech Financial Analysis
 
-
 ## Project Overview
 
 This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022, with the aim of providing insights for prospective investors. It served solely as an educational and analytical exercise and not as a definitive guide for financial advice. 
