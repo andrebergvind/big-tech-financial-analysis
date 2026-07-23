@@ -107,26 +107,6 @@ The processed was finalised with a complete analysis, made with the help of the 
   In 2022, Intel records the lowest ROE, net marging, and earnings per share.
 
 
-## Conclusion
-
-The outcome of the analysis reveals a strong difference in investment attractiveness and overall financial health among the five companies.
-
-Overall, Microsoft, showcases the strongest low risk investment profile due to its combination of increasing profitability, scale, market dominance, and financial stability.
-
-Yet, Apple remains an incredibly strong competitor and attractive alternative option. However, at the end of 2022, the company shows signs of a growth slowdown compared to Microsoft and NVIDIA.
-
-Between these two companies, Microsoft demonstrates the most balanced long-term performance, and while Apple delivers strong shareholder returns it simultaneously possesses higher leverage exposure. 
-
-NVIDIA on the other hand, represents the strongest growth oriented investment opportunity, driven by rapid expansion within AI and semiconductor markets. However, the company also displays some of the weakest historical profitability averages along with an uncertain valuation sensitivity.
-
-With this in mind, looking at the last two years, while NVIDIA offers the strongest growth opportunity, it also carries greater investment risk and potential price volatility.
-
-In contrast, Google provides a financially conservative and stable growth profile supported by strong liquidity and low debt exposure, making it attractive for investors seeking lower financial risk. Although experiencing a drop in EPS over the last year, Google continues to expand and grow financially.
-
-Conversely, Intel significantly underperforms competitors across profitability, growth, and investor sentiment metrics, indicating structural and competitive challenges within its market segment. The company is at this stage facing one of its toughest challenges financially over the time period examined.
-
-Overall, the analysis highlights various financial conditions and histroical performance trends that may be considered when evaluating potential investment opportunities in these companies. Worth considering is the major difference between matured, financially stable market leaders and early developing companies with potential for higher reward but increased risk.
-
 ## Recommendations
 
 **Low Risk Stable Option**
