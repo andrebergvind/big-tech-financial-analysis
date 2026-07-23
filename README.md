@@ -44,7 +44,7 @@ Following initial exploration of the data in Excel, next step included transferr
 
 The cleaned and transformed dataset can be accessed here: [Clean Dataset](./tech_companies_financials_clean.csv)
 
-Full cleaning and transformation process, including reasoning behind each action can be accessed here: [SQL Cleaning Process](sql/sql-cleaning-process.md)
+Full cleaning and transformation process, including reasoning behind each action can be accessed here: [SQL Cleaning Process](./sql/sql-cleaning-process.md)
 
 The SQL process also uncluded an exploratory comparison analysis of the five companies.
 The analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualization.
