@@ -100,9 +100,9 @@ The processed was finalised with a complete analysis, made with the help of the 
 
 ## Dashboard
 
-![Tech Financial Analysis Dashboard](dashboard.png)
+![Tech Financial Analysis Dashboard](dashboard/dashboard.png)
 
-[View Interactive Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Analysis
 
