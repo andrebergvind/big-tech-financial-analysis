@@ -1,6 +1,6 @@
-# Big Tech Financial Analysis
+# 💰📈 Big Tech Financial Analysis
 
-## Project Overview
+## 📋 Project Overview
 
 This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022, with the aim of providing insights for prospective investors. It served solely as an educational and analytical exercise and not as a definitive guide for financial advice. 
 
@@ -16,7 +16,7 @@ The project was conducted in May 2026, and in order to allow for a fair outcome,
 - **Intel**
 
 
-### Tools Used
+### 🛠️ Tools Used
 
 - **Excel**
 - **pgAdmin**
@@ -24,21 +24,7 @@ The project was conducted in May 2026, and in order to allow for a fair outcome,
 - **Tableau**
 
 
-## Cleaning & Transformation
-
-
-**Excel**
-
-After downloading the dataset from [Kaggle](https://www.kaggle.com/datasets/rish59/financial-statements-of-major-companies2009-2023?select=Financial+Statements.csv), the process began with an initial exploration of its values and data types using Excel.
-The reson for this step was to provide a deeper understanding of possible inconsistencies and errors present within the dataset.
-
-The result aknowledged messy column names which were altered using SQL. It also presented a difference in rows between the five companies used for the analysis. Microsoft and NVIDIA were the only two companies with data collected for 2023. Apple, Intel, and Google presented data ranging from 2009 and 2022. This finding resulted in the decision of removing data for 2023 in order to provide a fair analysis.
-
-Furthermore, the values in Apple's D/E ratio showcased 0 for the years between 2009 and 2012. These values would not be used for the analysis and were therefore not removed.
-
-___
-
-**SQL**
+## 🧹🔎 Data Cleaning & Exploration
 
 Following initial exploration of the data in Excel, next step included transferring the dataset into pgAdmin for reforming column names, look for outliers, data validation, and removing redundant data not applicable for the analysis at hand.
 
@@ -46,45 +32,20 @@ The cleaned and transformed dataset can be accessed here: [Clean Dataset](./csv/
 
 Full cleaning and transformation process, including reasoning behind each action can be accessed here: [SQL Cleaning Process](./sql/sql-cleaning-process.md)
 
-The SQL process also uncluded an exploratory comparison analysis of the five companies.
-The analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualization.
+The SQL process also included an exploratory comparison analysis of the five companies.
+The analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualisations.
 
 Full SQL analysis process, including reasoning behind each action can be accessed here: [SQL Analysis Process](./sql/sql-analysis-process.md)
 
 
-___
-
-**Tableau**
-
-The final step of cleaning and transforming the data included transferring it into Tableau Public for creating visualisations and a dashboard.
-
-Before building the visuals, calculated fields were created to facilitate the use of, and enhance the understanding of data.
-
-**Fields created include:**
-
-- Revenue ($B)
-- Shareholder Equity ($B)
-- Revenue Growth %
-- EPS Growth %
-
-Originally, revenue and shareholder equity were presented in $M but for improved readability in charts, these were converted into $B.
-This did not affect any metrics as they were not used to perform comparison with other values at this stage of the analysis.
-
-Revenue and EPS Growth in % were calculated by dividing the difference in change between current year and previous year with the value of previous year, which allowed for a view of changes in the metrics over time.
-
-
-The processed was finalised with a complete analysis, made with the help of the dashboard and can be found below.
-
-
-
-## Dashboard
+## 📊 Dashboard
 
 ![Tech Financial Analysis Dashboard](dashboard/dashboard.png)
 
 [View Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-## Key Insights
+## 💡 Key Insights
 
 - **Microsoft** demonstrates the strongest overall investment profile
   The company combines strong profitability, stable revenue growth, financial stability, and relatively low leverage.
@@ -107,7 +68,7 @@ The processed was finalised with a complete analysis, made with the help of the 
   In 2022, Intel records the lowest ROE, net marging, and earnings per share.
 
 
-## Recommendations
+## ✅ Recommendations
 
 **Low Risk Stable Option**
 
@@ -128,11 +89,11 @@ Despite not having matured to the same stage as the rest of the group, NVIDIA co
 
 From an investor perspective, NVIDIA shows a high-growth investment opportunity with substantial future potential linked to high tech expansion. However, its rapid valuation growth and dependence on future technological demand might also alert new investors to higher market volatility compared to more mature companies such as Apple and Microsoft.
 
-**Disclaimer**
+❗ **Disclaimer**
 
-Overall, when considering investing in any of these companies, investors may benefit from evaluating not only profitability and historical growth performance, but also current company valuation, future financial risks, long-term growth sustainability, and exposure to future technological developments and possibilities.
+When considering investing in any of these companies, investors may benefit from evaluating not only profitability and historical growth performance, but also current company valuation, future financial risks, long-term growth sustainability, and exposure to future technological developments and possibilities.
 
-## Limitations
+## ⚠️ Limitations
 
 - Unfortunately, the dataset did not include free cash flow nor share price and therefore, the analysis does not include valuation metrics such as P/E ratio, free cash flow, or dividend yield, which are highly relevant for investment decision making. 
 
