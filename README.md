@@ -4,7 +4,7 @@
 
 This project entails a financial analysis of five major tech companies and their performance between 2009 and 2022, with the aim of providing insights for prospective investors. It served solely as an educational and analytical exercise and not as a definitive guide for financial advice. 
 
-The project was conducted in May 2026, and in order to allow for a fair outcome, the analysis does not consider any events or financial developments occurring after 2022.
+The project was conducted in May 2026, and in order to allow for a fair outcome, the analysis did not consider any events or financial developments occurring after 2022.
 
 ***Companies included in the analysis:***
 
