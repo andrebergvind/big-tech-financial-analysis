@@ -1,4 +1,4 @@
-# 💰📈 Big Tech Financial Analysis
+# 📈 Big Tech Financial Analysis
 
 ## 📋 Project Overview
 
