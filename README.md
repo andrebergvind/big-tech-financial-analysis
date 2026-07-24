@@ -42,7 +42,7 @@ Full SQL analysis process, including reasoning behind each action can be accesse
 
 ![Tech Financial Analysis Dashboard](dashboard/dashboard.png)
 
-[View Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Interactive Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## 💡 Key Insights
