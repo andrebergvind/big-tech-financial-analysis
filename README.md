@@ -26,14 +26,12 @@ The project was conducted in May 2026, and in order to allow for a fair outcome,
 
 ## 🧹🔎 Data Cleaning & Exploration
 
-Following initial exploration of the data in Excel, next step included transferring the dataset into pgAdmin for reforming column names, look for outliers, data validation, and removing redundant data not applicable for the analysis at hand.
-
-The cleaned and transformed dataset can be accessed here: [Clean Dataset](./csv/tech_companies_financials_clean.csv)
+Following initial exploration of the data in Excel, next step included transferring the dataset into pgAdmin for reforming column names, look for outliers, data validation, and removing redundant data not applicable for the upcoming analysis.
 
 Full cleaning and transformation process, including reasoning behind each action can be accessed here: [SQL Cleaning Process](./sql/sql-cleaning-process.md)
 
 The SQL process also included an exploratory comparison analysis of the five companies.
-The analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualisations.
+This analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualisations.
 
 Full SQL analysis process, including reasoning behind each action can be accessed here: [SQL Analysis Process](./sql/sql-analysis-process.md)
 
