@@ -52,6 +52,3 @@ Finally the analysis examined the earnings per share growth from 2021 to 2022.
 The result showcased a massive growth in earnings per share for NVIDIA of 122.54%, followed by Microsoft and Apple, (both below 20% increase).
 Worth noting is that Google and Intel had both decreased significantly with approximately 19 respectively 60%.
 
-
-After concluding the initial exploratory analysis made with SQL, the dataset was transferred to Tableau for further in-depth analysis.
-The full analysis can be accessed here: [Full Analysis](../README.md#analysis)
