@@ -1,18 +1,17 @@
 
 
 
-The SQL analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualization.
+The SQL analysis primarily focused on developing an initial understanding of company performance and financial health before conducting deeper comparative analysis through visualisation.
 
 All codes used can be accessed here: [SQL Analysis Codes](./sql-analysis.sql)
 
 To kick off the analysis i began with examining which company had the highest revenues each year
 Apple showcased highest revenue each year except for Microsoft in 2009.
-The code used:
 
 
 
 After, followed an examination of various average profitability metrics with an emphasis on ROE per company over the 14 years.
-The reason was to get an understanding of how the companies have performed in terms of profitability from an investors perspective over the entire time period.
+The purpose was to get an understanding of how the companies have performed in terms of profitability from an investors perspective over the entire time period.
 The outcome showcased Apple at the top with an average of 61.27% ROE and an average of 33.56% ROI.
 Google on the other hand showed the lowest average ROE of 17.11% but second highest net margin and current ratio.
 These metrics were further analysed through visualisations conducted in Tableau.
@@ -24,7 +23,7 @@ The result indicated a huge growth for NVIDIA in the later years. Intel however,
 
 
 
-The next step was to understand how efficiently companies convert revenue into profit. Primarily, this step of the analysis focused on gross and net margins. 
+Next step was to understand how efficiently companies convert revenue into profit. Primarily, this step of the analysis focused on gross and net margins. 
 The outcome favoured Microsoft and NVIDIA with stable increasing values of around 65% Gross margin and 36% Net margin in later years, substantially higher than their competitors.
 
 
@@ -54,6 +53,7 @@ Worth noting is that Google and Intel had both decreased significantly with appr
 
 ---
 
+## Individual Summary
 
 **Apple**
 
